@@ -1,0 +1,5 @@
+.env
+.vscode/
+.containers/
+admin-page/.token/
+ssl/.self-signed/
