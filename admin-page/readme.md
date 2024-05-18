@@ -16,4 +16,8 @@
 
 Generated token and it's hash can be found in `.token` subdirectory.
 
-Paste token hash as value of `SERVER_ADMIN_TOKEN` variable in [`.env`](../.env) file.
+Paste token hash as value of `SERVER_ADMIN_TOKEN` variable in [`.env`](../.env) file. Make sure you use single quotes.
+
+```text
+SERVER_ADMIN_TOKEN='$argon2id$v=19$m=65540,t=3,p=4$MmeK.....'
+```
