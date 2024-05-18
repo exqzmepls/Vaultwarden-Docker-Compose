@@ -7,7 +7,7 @@ This repository contains a Docker Compose configuration for setting up a self-ho
 1. Clone the repository
 
     ```shell
-    git clone https://github.com/exqzmepls/vaultwarden-docker-compose.git
+    git clone https://github.com/exqzmepls/Vaultwarden-Docker-Compose.git
     ```
 
 2. Generate a self-signed SSL certificate using given [instrustions](ssl\readme.md)
@@ -22,6 +22,6 @@ This repository contains a Docker Compose configuration for setting up a self-ho
     docker compose up -d
     ```
 
-6. By default Vaultwarden server should now be running on [https://localhost](https://localhost)
+6. By default Vaultwarden server should now be running on [localhost](https://localhost)
 
-7. You can explore [Vaultwarden Wiki](https://github.com/dani-garcia/vaultwarden/wiki) for additional details and usage examples.
+7. You can explore [Vaultwarden Wiki](https://github.com/dani-garcia/vaultwarden/wiki) for additional details and usage examples
