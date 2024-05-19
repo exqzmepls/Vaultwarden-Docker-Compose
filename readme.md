@@ -10,9 +10,9 @@ This repository contains a Docker Compose configuration for setting up a self-ho
     git clone https://github.com/exqzmepls/Vaultwarden-Docker-Compose.git
     ```
 
-2. Generate a self-signed SSL certificate using given [instrustions](ssl\readme.md)
+2. Generate a self-signed SSL certificate using given [instructions](ssl\readme.md)
 
-3. Generate admin token using given [instrustions](admin-page\readme.md)
+3. Generate admin token using given [instructions](admin-page\readme.md)
 
 4. Open your terminal in repository root directory
 
